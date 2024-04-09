@@ -1,5 +1,4 @@
 # Find the square root of a number
-
 ## AIM:
 To write a program to find the square root of a number.
 
@@ -28,6 +27,6 @@ a=int(input())
 print("Square root of the number:",newton(a))
 ```
 ## Output:
-![output](/square.png)
+![output](/py%20exp%205.png)
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
