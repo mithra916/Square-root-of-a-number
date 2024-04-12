@@ -15,7 +15,7 @@ To write a program to find the square root of a number.
  Set i = 0.
 ## Step 4:
  Calculate  number = 0.5 * (number + a / number) for 100 iterations.
-## Step %:
+## Step 5:
  Return number
 
 ## Program:
